@@ -1,0 +1,6 @@
+[submodule "express-chat-server"]
+	path = express-chat-server
+	url = https://github.com/kkroeger93/express-chat-server
+[submodule "express-chat-client"]
+	path = express-chat-client
+	url = https://github.com/kkroeger93/express-chat-client
